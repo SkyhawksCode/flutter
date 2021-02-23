@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "797158898158",
+    "project_id": "testinglaravel-5615d",
+    "storage_bucket": "testinglaravel-5615d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797158898158:android:8b64938b989f7ac5c776ff",
+        "android_client_info": {
+          "package_name": "com.tradeinn.trade_inn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797158898158-h88j64c097s1a8d7tfq8mi7ejckivpu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPFBM93fPaAq2KA46IysCGMI7VVpP-NNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797158898158-h88j64c097s1a8d7tfq8mi7ejckivpu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

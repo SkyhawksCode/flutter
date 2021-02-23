@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "128947404247",
+    "firebase_url": "https://flutterweb-eb543-default-rtdb.firebaseio.com",
+    "project_id": "flutterweb-eb543",
+    "storage_bucket": "flutterweb-eb543.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128947404247:android:56484c8ce2c483a6141f92",
+        "android_client_info": {
+          "package_name": "com.tradeinn.trade_inn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128947404247-eq32ipeuhh4qbn1invp10vri0pilrdqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfL49RX_2-4Y1CJdZEjZEqxr6MkDsuikU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128947404247-eq32ipeuhh4qbn1invp10vri0pilrdqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
